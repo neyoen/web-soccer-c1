@@ -4,5 +4,5 @@ export interface Ranking{
     Wins: number;
     Ties: number;
     GoalsFor: number;
-    GoalAgaints: number;
+    GoalsAgaints: number;
 }
