@@ -3,7 +3,7 @@ import { Title } from '@angular/platform-browser';
 import { Schedule } from '../interface/schedule';
 import { Team } from '../interface/team';
 import { Ranking } from '../interface/ranking';
-import { SoccerService } from '../service/Soccer.Service';
+import { SoccerService } from '../service/SoccerService';
 
 @Component({
   selector: 'app-standings',
